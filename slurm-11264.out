@@ -1,0 +1,12 @@
+Máquina: ampere
+Usuario: alumno14
+Directorio: /home/alumno14
+
+Cortando ficheros FASTQ...
+
+Cortado Sample2.fastq -> Sample2_cut.fastq (primer 7142 líneas de 100000)
+Cortado Sample1.fastq -> Sample1_cut.fastq (primer 7142 líneas de 100000)
+Cortado Sample4.fastq -> Sample4_cut.fastq (primer 7142 líneas de 100000)
+Cortado Sample3.fastq -> Sample3_cut.fastq (primer 7142 líneas de 100000)
+
+Acabado bien
